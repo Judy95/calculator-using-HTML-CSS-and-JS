@@ -4,6 +4,6 @@
 
 - CSS Grid
 
+-How to use ES6 classes to organise code
 - Flexbox
 
--How to use ES6 classes to organise code
