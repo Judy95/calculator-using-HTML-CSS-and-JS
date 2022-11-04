@@ -6,4 +6,4 @@
 
 - Flexbox
 
- -How to use ES6 classes to organise code
+-How to use ES6 classes to organise code
